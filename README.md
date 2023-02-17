@@ -1,3 +1,3 @@
 # mt7621-mtk7915
-mtk mt7915 drivers for openwrt mt7621 ax1800 DBDC devices
+ mt7915 DBDC ax1800 drivers for mt7621 openwrt devices.
 do not keep setting wireless is different from mt76
